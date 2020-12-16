@@ -12,7 +12,7 @@ Hypothyroidism is one of the most common diseases worldwide, and levothyroxine i
 
    **TECHNOLOGIES USED**
 
-This project uses python libraries to conduct data analysis and utilize Decision Trees classifiers and Support Vector Machine to create the prediction model
+This project uses python libraries to conduct data analysis and also utilizes Decision Trees classifiers and Support Vector Machine to create the prediction model
 
   **CONTRIBUTORS**
   
