@@ -1,4 +1,4 @@
-   # Detecting-Hypothyroidism
+   # DETECTING-HYPOTHYROIDISM
 
 This model determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 
@@ -10,10 +10,10 @@ Hypothyroidism is one of the most common diseases worldwide, and levothyroxine i
    This project tends to utilize machine learning to predict whether or not a patient has a hypothyroid condition based on their symptoms. The model was trained on data collected from a health camp that was facilitated by Nairobi Hospital. Patient's records in the data include age, sex and classification of a whether or not the patient has hypothyroidism and others.
 
 
-   **SOFTWARES USED**
+   **TECHNOLOGIES USED**
 
 This project uses python libraries to conduct data analysis and utilize Decision Trees classifiers and Support Vector Machine to create the prediction model
 
-  **Contributors**
+  **CONTRIBUTORS**
   
   Biko Mwangi
